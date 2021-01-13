@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**dLamSlo8/dLamSlo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Derek Lam, a frontend developer passionate for creating impactful user experiences with responsive, performant, and accessible UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Technologies I currently work with
+- NextJS/ReactJS/JS
+- TailwindCSS/SASS/CSS
+- HTML
+
+#### 👨‍💻 What I'm Working On
+My main side project right now that I'm co-developing is a web app that helps visualize data structures and algorithms. I'm also taking some online courses to help reinforce skills, and documenting my learning and building process through the [100 Days of Code challenge](https://github.com/dLamSlo8/100-days-of-code). 
+
+
+**🙋‍♂️ I'm looking for full-time opportunities as a frontend developer!**
