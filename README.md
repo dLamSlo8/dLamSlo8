@@ -6,7 +6,7 @@ I'm Derek Lam, a frontend developer passionate for creating impactful user exper
 **🙋‍♂️ I'm looking for full-time opportunities as a frontend developer!**
 
 #### 🛠 Technologies I currently work with
-- NextJS/ReactJS/JS
+- NextJS/GatsbyJS/ReactJS/JS
 - TailwindCSS/SASS/CSS
 - HTML
 
