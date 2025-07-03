@@ -21,9 +21,9 @@ I'm Derek Lam, a frontend developer passionate for creating impactful user exper
 - WordPress with NextJS and GraphQL querying
 - Fastly CDN
 
-#### 👨‍💻 How I'm Growing as a Developer
+#### 👨‍💻 How I'm trying to improve as a developer
 - Taking an online React course to learn more about React best practices 
-- Taking an online accessibility course to better understand how to create an accessible UX
+- Taking an online accessibility course to better understand how to develop with accessiblity in mind
 
 <!--
 #### My Github Stats
