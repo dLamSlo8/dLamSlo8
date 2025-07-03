@@ -6,12 +6,24 @@ I'm Derek Lam, a frontend developer passionate for creating impactful user exper
 **🙋‍♂️ I'm looking for full-time opportunities as a frontend developer!**
 
 #### 🛠 Technologies I currently work with
-- NextJS/GatsbyJS/ReactJS/JS
-- TailwindCSS/SASS/CSS
-- HTML
+- NextJS
+- SSG and ISR rendering strategies
+- TypeScript
+- Styled Components with TailwindCSS
+- Sanity CMS
+- Netlify for Hosting
+- SWR for client-side data-fetching 
 
-#### 👨‍💻 What I'm Working On
-My main side project right now that I'm co-developing is a web app that helps visualize data structures and algorithms. I'm also taking some online courses and just utilizing the never-ending amount of web dev resources to help reinforce skills, and am currently building a blog on my portfolio site to document learnings that I feel could be important to other developers. 
+#### 🛠 Technologies I have worked with and have familiarity with
+- Static HTML, CSS, JS
+- Jekyll SSG
+- Cloudcannon CMS
+- WordPress with NextJS and GraphQL querying
+- Fastly CDN
+
+#### 👨‍💻 How I'm Growing as a Developer
+- Taking an online React course to learn more about React best practices 
+- Taking an online accessibility course to better understand how to create an accessible UX
 
 <!--
 #### My Github Stats
