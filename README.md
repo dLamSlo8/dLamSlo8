@@ -3,7 +3,6 @@
 
 I'm Derek Lam, a frontend developer passionate for creating impactful user experiences with responsive, performant, and accessible UI.
 
-**🙋‍♂️ I'm looking for full-time opportunities as a frontend developer!**
 
 #### 🛠 Technologies I currently work with
 - NextJS
